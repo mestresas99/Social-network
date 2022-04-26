@@ -1,2 +1,2 @@
-# Social-network
+# Social network
 Data structures
